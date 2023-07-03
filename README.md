@@ -26,5 +26,3 @@ Tableau
 Databases
 
 Data Science Worflow
-
-Real Time Data Science Projects
